@@ -1,2 +1,2 @@
 
-const caracteres = 'Esto es una cadena 4';
+const caracteres = 'Esto es una cadena 5';
