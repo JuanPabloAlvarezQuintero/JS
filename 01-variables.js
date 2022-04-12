@@ -1,5 +1,4 @@
-var producto = "Esto es una variable JP";
+var producto = "Monitor 24 Pulgadas";
 console.log(producto);
 
-const constante = 'Esto es una constante JP';
-console.log(constante);
+const precio = 250000;
